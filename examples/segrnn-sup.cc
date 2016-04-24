@@ -1,4 +1,5 @@
 #include "cnn/nodes.h"
+//测试下
 #include "cnn/cnn.h"
 #include "cnn/training.h"
 #include "cnn/timing.h"
